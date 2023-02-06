@@ -1,0 +1,11 @@
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\bin\Debug\Chapter18Database.accdb
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\bin\Debug\TremblayCSharpUniversity.exe.config
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\bin\Debug\TremblayCSharpUniversity.exe
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\bin\Debug\TremblayCSharpUniversity.pdb
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\obj\Debug\TremblayCSharpUniversity.csprojResolveAssemblyReference.cache
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\obj\Debug\TremblayCSharpUniversity.Form1.resources
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\obj\Debug\TremblayCSharpUniversity.Properties.Resources.resources
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\obj\Debug\TremblayCSharpUniversity.csproj.GenerateResource.Cache
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\obj\Debug\TremblayCSharpUniversity.exe
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\obj\Debug\TremblayCSharpUniversity.pdb
+c:\users\mtrembl\documents\visual studio 2017\Projects\TremblayCSharpUniversity\TremblayCSharpUniversity\obj\Debug\TremblayCSharpUniversity.Product.resources

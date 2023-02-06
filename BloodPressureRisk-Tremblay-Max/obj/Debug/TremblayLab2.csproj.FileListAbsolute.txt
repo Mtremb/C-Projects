@@ -1,0 +1,10 @@
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\bin\Debug\TremblayLab2.exe.config
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\bin\Debug\TremblayLab2.exe
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\bin\Debug\TremblayLab2.pdb
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\obj\Debug\TremblayLab2.csprojAssemblyReference.cache
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\obj\Debug\TremblayLab2.Properties.Resources.resources
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\obj\Debug\TremblayLab2.csproj.GenerateResource.cache
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\obj\Debug\TremblayLab2.csproj.CoreCompileInputs.cache
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\obj\Debug\TremblayLab2.exe
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\obj\Debug\TremblayLab2.pdb
+C:\Users\canad\source\repos\TremblayLab2\TremblayLab2\obj\Debug\TremblayLab2.Lab3.resources
